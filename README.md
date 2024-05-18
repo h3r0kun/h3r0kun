@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python back-end development
+- 🤔 I’m looking for help with back-end development
+- 📫 How to reach me: tamerpop17@gmail.com; tg.me/@mmussstt
+- ⚡ Fun fact: I'm doing an internship at "Wooppay" company
 <!--
 **h3r0kun/h3r0kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
